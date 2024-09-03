@@ -1,6 +1,11 @@
 # 💫 About Me:
-Work as an IT technical Support for more than 5 years.  Now, I looking to step up my challenge into learning programming.
+- 🔭 I’m currently working on **Crok**
 
+- 🌱 I’m currently learning **Ruby on rails, Javascript,Stimulus, Vue.js, CSS, HTML,bootstrap**
+
+- 💬 Ask me about **Programming and technology tools**
+
+- 📫 How to reach me **pratchavee.amorn@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratchavee-amornsetthachai-02a2621a7/) 
