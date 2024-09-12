@@ -9,8 +9,7 @@
 - 📫 How to reach me **pratchavee.amorn@gmail.com or through LinkedIn below**
 
 # Portfolio:
-![](https://pratchavee-portfolio.my.canva.site/) 
-
+![Click Me](https://pratchavee-portfolio.my.canva.site/) <br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pratchavee-amornsetthachai-02a2621a7/) 
